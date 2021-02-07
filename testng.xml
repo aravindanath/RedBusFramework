@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Red Bus Regression Suite">
+    <test verbose="2" preserve-order="true"
+          name="Red Bus">
+        <classes>
+            <class name="testScripts.TC001"/>
+            <class name="testScripts.TC002"/>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Red Bus Regression Suite" duration-ms="30793" started-at="2021-02-07T09:15:22 IST" finished-at="2021-02-07T09:15:52 IST">
+    <groups>
+    </groups>
+    <test name="Red Bus" duration-ms="30793" started-at="2021-02-07T09:15:22 IST" finished-at="2021-02-07T09:15:52 IST">
+      <class name="testScripts.TC002">
+        <test-method status="PASS" signature="launchBroswer()[pri:0, instance:testScripts.TC002@e25b2fe]" name="launchBroswer" is-config="true" duration-ms="2782" started-at="2021-02-07T09:15:33 IST" finished-at="2021-02-07T09:15:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBroswer -->
+        <test-method status="PASS" signature="TC002()[pri:0, instance:testScripts.TC002@e25b2fe]" name="TC002" duration-ms="11243" started-at="2021-02-07T09:15:36 IST" finished-at="2021-02-07T09:15:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC002 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testScripts.TC002@e25b2fe]" name="tearDown" is-config="true" duration-ms="5144" started-at="2021-02-07T09:15:47 IST" finished-at="2021-02-07T09:15:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testScripts.TC002 -->
+      <class name="testScripts.TC001">
+        <test-method status="PASS" signature="launchBroswer()[pri:0, instance:testScripts.TC001@204f30ec]" name="launchBroswer" is-config="true" duration-ms="3558" started-at="2021-02-07T09:15:22 IST" finished-at="2021-02-07T09:15:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBroswer -->
+        <test-method status="PASS" signature="TC001()[pri:0, instance:testScripts.TC001@204f30ec]" name="TC001" duration-ms="2896" started-at="2021-02-07T09:15:25 IST" finished-at="2021-02-07T09:15:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC001 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testScripts.TC001@204f30ec]" name="tearDown" is-config="true" duration-ms="5120" started-at="2021-02-07T09:15:28 IST" finished-at="2021-02-07T09:15:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testScripts.TC001 -->
+    </test> <!-- Red Bus -->
+  </suite> <!-- Red Bus Regression Suite -->
+</testng-results>
